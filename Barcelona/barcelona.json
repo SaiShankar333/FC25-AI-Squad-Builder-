@@ -1,0 +1,192 @@
+[
+  {
+    "Name": "Messi",
+    "Position": "RW",
+    "Alternate Position": ["CAM","CF","ST"],
+    "OVR": 92,
+    "Image URL": "potraits/barcelona/Messi.webp"
+  },
+  {
+    "Name": "Ter Stegen",
+    "Position": "GK",
+    "Alternate Position": [""],
+    "OVR": 88,
+    "Image URL": "potraits/barcelona/Ter_Stegen.webp"
+  },
+  {
+    "Name": "Lewandowski",
+    "Position": "ST",
+    "Alternate Position": [""],
+    "OVR": 90,
+    "Image URL": "potraits/barcelona/Lewandowski.webp"
+  },
+  {
+    "Name": "Frenkie de Jong",
+    "Position": "CM",
+    "Alternate Position": ["CDM"],
+    "OVR": 87,
+    "Image URL": "potraits/barcelona/Frenkie_De_Jong.webp"
+  },
+  {
+    "Name": "Pedri",
+    "Position": "CM",
+    "Alternate Position": ["LW"],
+    "OVR": 86,
+    "Image URL": "potraits/barcelona/Pedri.webp"
+  },
+  {
+    "Name": "Araujo",
+    "Position": "CB",
+    "Alternate Position": ["RB"],
+    "OVR": 85,
+    "Image URL": "potraits/barcelona/Araujo.webp"
+  },
+  {
+    "Name": "Kounde",
+    "Position": "RB",
+    "Alternate Position": ["CB"],
+    "OVR": 85,
+    "Image URL": "potraits/barcelona/Kounde.webp"
+  },
+  {
+    "Name": "Raphinha",
+    "Position": "RW",
+    "Alternate Position": ["LW","RM"],
+    "OVR": 84,
+    "Image URL": "potraits/barcelona/Raphinha.webp"
+  },
+  {
+    "Name": "Dani Olmo",
+    "Position": "CAM",
+    "Alternate Position": ["CM"],
+    "OVR": 84,
+    "Image URL": "potraits/barcelona/Dani_Olmo.webp"
+  },
+  {
+    "Name": "Christensen",
+    "Position": "CB",
+    "Alternate Position": ["CDM"],
+    "OVR": 83,
+    "Image URL": "potraits/barcelona/Christensen.webp"
+  },
+  {
+    "Name": "Gavi",
+    "Position": "CM",
+    "Alternate Position": ["LW"],
+    "OVR": 83,
+    "Image URL": "potraits/barcelona/Gavi.webp"
+  },
+  {
+    "Name": "Balde",
+    "Position": "LB",
+    "Alternate Position": ["RB","LM"],
+    "OVR": 81,
+    "Image URL": "potraits/barcelona/Balde.webp"
+  },
+  {
+    "Name": "Martinez",
+    "Position": "CB",
+    "Alternate Position": [""],
+    "OVR": 81,
+    "Image URL": "potraits/barcelona/Martinez.webp"
+  },
+  {
+    "Name": "Lamine Yamal",
+    "Position": "RW",
+    "Alternate Position": ["LW","RM"],
+    "OVR": 81,
+    "Image URL": "potraits/barcelona/Lamine_Yamal.webp"
+  },
+  {
+    "Name": "Ferran Torres",
+    "Position": "LW",
+    "Alternate Position": ["RW","ST","LM"],
+    "OVR": 80,
+    "Image URL": "potraits/barcelona/Torres.webp"
+  },
+  {
+    "Name": "Garcia",
+    "Position": "CB",
+    "Alternate Position": ["CDM","RB"],
+    "OVR": 78,
+    "Image URL": "potraits/barcelona/Garcia.webp"
+  },
+  {
+    "Name": "Fermin Lopez",
+    "Position": "CM",
+    "Alternate Position": ["CAM","LW"],
+    "OVR": 78,
+    "Image URL": "potraits/barcelona/Fermin_Lopez.webp"
+  },
+  {
+    "Name": "Pablo Torre",
+    "Position": "CAM",
+    "Alternate Position": ["LM","CM"],
+    "OVR": 74,
+    "Image URL": "potraits/barcelona/Pablo_Torre.webp"
+  },
+  {
+    "Name": "Inaki Pena",
+    "Position": "GK",
+    "Alternate Position": [""],
+    "OVR": 73,
+    "Image URL": "potraits/barcelona/Inaki_Pena.webp"
+  },
+  {
+    "Name": "Pau Cubarsi",
+    "Position": "CB",
+    "Alternate Position": [""],
+    "OVR": 72,
+    "Image URL": "potraits/barcelona/Cubarsi.webp"
+  },
+  {
+    "Name": "Marc Casado",
+    "Position": "CDM",
+    "Alternate Position": ["CM,RB"],
+    "OVR": 67,
+    "Image URL": "potraits/barcelona/Casado.webp"
+  },
+  {
+    "Name": "Hector Fort",
+    "Position": "RB",
+    "Alternate Position": ["CB"],
+    "OVR": 65,
+    "Image URL": "potraits/barcelona/Hector_Fort.webp"
+  },
+  {
+    "Name": "Astralaga",
+    "Position": "GK",
+    "Alternate Position": [""],
+    "OVR": 62,
+    "Image URL": "potraits/barcelona/Astralaga.webp"
+  },
+  {
+    "Name": "Szczesny",
+    "Position": "GK",
+    "Alternate Position": [""],
+    "OVR": 84,
+    "Image URL": "potraits/barcelona/Szczesny.webp"
+  },
+  {
+    "Name": "Pau Victor",
+    "Position": "ST",
+    "Alternate Position": ["CAM"],
+    "OVR": 62,
+    "Image URL": "potraits/barcelona/Pau_Victor.webp"
+  },
+  {
+    "Name": "Ruben Lopez",
+    "Position": "CM",
+    "Alternate Position": [""],
+    "OVR": 56,
+    "Image URL": "potraits/barcelona/Ruben_Lopez.webp"
+  },
+  {
+    "Name": "Ansu Fati",
+    "Position": "CAM",
+    "Alternate Position": ["ST,LM"],
+    "OVR": 77,
+    "Image URL": "potraits/barcelona/Ansu_Fati.webp"
+  }
+]
+
